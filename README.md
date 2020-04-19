@@ -1,1 +1,1 @@
-# Covid-19-World-Tracker-Telegram-B
+# Covid-19-World-Tracker-Telegram-Bot
